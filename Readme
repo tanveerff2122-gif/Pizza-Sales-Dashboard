@@ -1,0 +1,89 @@
+# 🍕 Pizza Sales Dashboard (Excel Project)
+
+## 📊 Overview
+
+This project is an interactive **Pizza Sales Dashboard** built in Microsoft Excel. It provides insights into sales performance, customer behavior, and product trends using data visualization techniques.
+
+The dashboard helps analyze key metrics like revenue, order trends, and product performance in a clear and visually appealing format.
+
+---
+
+## 🚀 Key Features
+
+* 💰 **Total Revenue Analysis**
+* 📦 **Total Orders & Quantity Sold**
+* 📈 **Daily & Hourly Trends**
+* 🍕 **Sales by Pizza Category & Size**
+* 📊 **Top & Worst Selling Products**
+* 📅 **Busiest Days and Time Analysis**
+
+---
+
+## 📌 Key Metrics
+
+* **Total Revenue:** $817,860
+* **Average Order Value:** $38.31
+* **Total Orders:** 21,350
+* **Total Pizzas Sold:** 49,574
+* **Average Pizzas per Order:** 2.32
+
+---
+
+## 🛠 Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Data Cleaning
+* Data Visualization
+
+---
+
+## 📷 Dashboard Preview
+
+
+
+---
+
+## 📂 File Structure
+
+* `pizza_sales.xlsx` → Main Excel dashboard file
+* `README.md` → Project documentation
+
+---
+
+## 🎯 Insights Gained
+
+* Weekends have higher sales compared to weekdays
+* Peak order times are during afternoon and evening
+* Classic category contributes the most to total sales
+* Large size pizzas generate maximum revenue
+
+---
+
+## 📌 How to Use
+
+1. Download the Excel file
+2. Open in Microsoft Excel
+3. Explore dashboard using filters and charts
+
+---
+
+## 💼 Use Case
+
+This project is useful for:
+
+* Data Analyst Portfolio
+* Business Insights
+* Sales Performance Analysis
+
+---
+
+## 👨‍💻 Author
+
+**Tanveer Khan**
+Aspiring Data Analyst
+
+---
+
+## ⭐ If you like this project, give it a star!
